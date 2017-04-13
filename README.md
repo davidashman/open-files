@@ -1,3 +1,4 @@
+
 # working-files package
 
 This package adds a 'working files' pane above Atom's tree-view, mimicking the functionality of Brackets.
